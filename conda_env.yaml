@@ -1,0 +1,9 @@
+name: seriallogger
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib=3.9.2
+  - numpy=1.26.4
+  - pyserial=3.5
+  - python=3.12.4
