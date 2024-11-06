@@ -1,4 +1,4 @@
-# Opto Incubator
+# Opto-Incubator
 Open Source, Low-Cost Optogenetics Incubator
 
 ## Components
