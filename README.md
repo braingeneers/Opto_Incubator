@@ -1,6 +1,10 @@
 # OptoIncubator
 Open Source, Low-Cost Optogenetics Incubator
 
+## Components
+
+
+
 Designed to be as low cost as possible while maintaing functionality. Please do not hesitate to reach
   out for questions.
 
