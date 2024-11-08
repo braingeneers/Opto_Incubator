@@ -2,7 +2,7 @@ Item	MPN	Qty
 
 ## Electronics ##
 Sparkfun STC31 CO2 Sensor Breakout	SPX-18385	
-Adafruit KB2040
+Adafruit KB2040	5302
 Qwiic Cable to Male Dupont Cable
 Dupont Female Connector, 10 Pin
 Dupont Female Connector, 4 Pin
@@ -15,14 +15,14 @@ Button
 12V barrel jack
 USB C Cable (Optional)
 
-
 ## Pnuematics ##
 Pneumatic Solenoid Valve
-Kegco Regulator
-16 gram CO2 Cartridge
-Pneumatic Tubing
+KegCo Mini CO2 Regulator	B079F5Z4N6
+KegCo Inlet Adapter 5/8 to 3/8	B08FRSGSPF
+Food Grade CO2 16G Cartridges	B07HK3TPLZ
+12V Micro Air Pump	DANXQ-013-12VVACUUM
+Vincon Flexible PVC Tubing 	ABH00007-50
 Pneumatic Fittings
-4010 Fan 
 
 ## Enclosure Parts ##
 Top Enclosure (PLA)
@@ -37,5 +37,9 @@ Lid Gasket 1 (90A TPU)
 Lid Gasket 2 (90A TPU)
 10mm Glass Cover Slip
 UV Cure Adehsive
+
+## 3D Printer Materials ##
+Bambu Labs PLA, Matte Black
+Polymaker TPU, 90A
 
 
